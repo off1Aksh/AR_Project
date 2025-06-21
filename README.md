@@ -18,9 +18,23 @@ This is a Unity-based Augmented Reality (AR) application developed for a final p
 
 ## 🚀 How to Run
 
-1. Open the project in **Unity (recommended version used: 202X.X.XfX)**.
-2. Ensure you have AR Foundation and ARCore/ARKit packages installed.
+1. Open the project in **Unity (recommended version used: 2022.3.20f1)**.
+2. Ensure you have **AR Foundation** and **ARCore/ARKit** packages installed.
 3. Build and run the app on a supported mobile device with AR capabilities.
 
-## 📁 Project Structure
+## 🛠️ Built With
 
+- Unity
+- C#
+- AR Foundation
+- Android/iOS Support
+
+## 🎓 Author
+
+Created by **[Akasha Bin Ali](https://www.instagram.com/akashaa.9?utm_source=qr&igsh=dWg2c3dqOGJsYmp3)**  
+Tugas Besar Mata Kuliah **Augmented Reality**  
+**Politeknik Negeri Semarang**
+
+---
+
+Feel free to fork, use, or modify for educational purposes.
