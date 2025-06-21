@@ -1,0 +1,31 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Logs/
+Build/
+Builds/
+UserSettings/
+
+# Visual Studio / VS Code
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity metadata / artifacts
+*.pidb
+*.booproj
+*.svd
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Unity packages & exports
+*.unitypackage
+*.apk
+*.ipa
+*.exe
